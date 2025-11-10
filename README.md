@@ -1,2 +1,2 @@
 # tamagomatawiki
-たまごまたwiki
+- なんかwikiがあるらしいので作ってみる
