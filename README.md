@@ -1,2 +1,2 @@
 # tamagomatawiki
-- なんかwikiがあるらしいので作ってみる
+- なんかwikiが作れるらしいので作ってみる
